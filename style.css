@@ -1,0 +1,25 @@
+.heading{
+    text-align: center;
+}
+.hero{
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    height: 100vh;
+    width: 40%;
+}
+.right{
+    height: 100vh;
+    width: 60%;
+}
+.head{
+    font-size: larger;
+    font-weight: 200;
+}
+#division{
+    border-left:1px solid grey;
+    position: absolute;
+    left: 38%;
+    height: 530px;
+}
